@@ -14,7 +14,7 @@ https://developer.android.com/?hl=ko
 
 ## Log
 * 2023-06-12 : Kotlin 프로그래밍 소개 1~4
-* 
+* 2023-06-13 : Compose 사용 시 알아야 하는 Android 기본사항 - 단원 1
 
 ## Compose 사용 시 알아야 하는 Android 기본사항
 ### 단원 1: 첫 번째 Android 앱
