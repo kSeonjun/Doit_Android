@@ -1,9 +1,11 @@
 # developers
----
-Log
+안드로이드 Kotlin 공식홈페이지 참고
+https://developer.android.com/?hl=ko
+
+## Log
 * 2023-06-12 : Kotlin 프로그래밍 소개 1~4
 * 
----
+
 ## Kotlin 프로그래밍 소개
 1. 시작하기 전에
 2. Compose를 사용한 Android 기본사항에 오신 것을 환영합니다.
